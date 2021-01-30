@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/python-memcache/compare/v0.2.0...v0.3.0) (2021-01-30)
+
+
+### Features
+
+* add async client ([#26](https://www.github.com/googleapis/python-memcache/issues/26)) ([0bbc337](https://www.github.com/googleapis/python-memcache/commit/0bbc337594e2a44c51a5b372670d72499592e2e0))
+
 ## [0.2.0](https://www.github.com/googleapis/python-memcache/compare/v0.1.0...v0.2.0) (2020-05-28)
 
 
